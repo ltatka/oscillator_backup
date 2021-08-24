@@ -4,6 +4,7 @@
 This module requires: 
 * pymongo
 * bson
+
 Either use the included conda environment or pip install these otherwise you will be sad.
 
 ## Basic use
