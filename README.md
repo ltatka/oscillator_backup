@@ -9,5 +9,11 @@ Either use the included conda environment or pip install these otherwise you wil
 
 ## Basic use
 ### From the command line:
+
 Navigate to repo
 ```python ./mongoBackup.py```
+
+
+## Log
+
+Back up 2021-08-23 LT
