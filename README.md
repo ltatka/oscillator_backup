@@ -16,5 +16,5 @@ Either use the included conda environment or pip install these otherwise you wil
 
 ## Log
 
-Back up 2021-08-23 LT
-Back up 2021-10-07 LT (364 3-node oscillators)
+* Back up 2021-08-23 LT
+* Back up 2021-10-07 LT (364 3-node oscillators)
