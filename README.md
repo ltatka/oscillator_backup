@@ -20,3 +20,4 @@ Either use the included conda environment or pip install these otherwise you wil
 * Back up 2021-10-07 LT (364 3-node oscillators)
 * Back up 2021-10-09 LT (processed 364 3-nodes)
 * Back up 2021-10-10 LT (processed 605 3-nodes)
+* Back up 2021-10-14 LT (605 definite oscillators that don't go to infinity, but had to reset some because errors in processing script. These will be labelled as {"processed": False}
