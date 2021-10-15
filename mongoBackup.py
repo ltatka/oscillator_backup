@@ -12,7 +12,7 @@ collection = db['networks']
 cur = collection.find({})
 
 def backup_db(backup_db_dir):
-    collections = db.collection_names()
+    collections = db.list_collection_names()
     for i, collection_name in enumerate(collections):
         col = getattr(db, collections[i])
         collection_ = col.find()
@@ -22,3 +22,5 @@ def backup_db(backup_db_dir):
             jsonfile.write(dumps(collection_).encode())
 
 backup_db('.')
+
+print("Backup successful")
