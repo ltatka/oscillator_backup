@@ -15,7 +15,10 @@ Either use the included conda environment or pip install these otherwise you wil
 
 
 ## Log
+# 2022
+* 2022-05-20 LT deletd unused fields
 
+# 2021
 * Back up 2021-08-23 LT
 * Back up 2021-10-07 LT (364 3-node oscillators)
 * Back up 2021-10-09 LT (processed 364 3-nodes)
