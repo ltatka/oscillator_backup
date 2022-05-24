@@ -6,7 +6,7 @@ from bson.json_util import dumps
 astr = "mongodb+srv://data:VuRWQ@networks.wqx1t.mongodb.net"
 client = pymongo.MongoClient(astr)
 database_names = client.list_database_names()
-db = client['networks']
+# db = client['networks']
 db = client.networks
 collection = db['networks']
 cur = collection.find({})
